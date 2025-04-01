@@ -76,3 +76,9 @@ h3{
     text-align: center;
     margin: 0 auto;
 }
+
+footer{
+    text-align: center
+    padding: 1em;
+    background-color: #000;
+}
